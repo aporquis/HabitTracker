@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">habittracker</string>
+    <string name="title_activity_main">habittracker</string>
+    <string name="package_name">ionic.habittracker</string>
+    <string name="custom_url_scheme">ionic.habittracker</string>
+</resources>
